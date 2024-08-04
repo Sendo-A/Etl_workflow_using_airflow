@@ -73,6 +73,10 @@ This project implements an ETL (Extract, Transform, Load) pipeline for managing 
 3. **Load Final Model**:
    - `prd_employees_model()`
 
+  ## Mysql source and Postgresql destination and result data
+
+<img src="https://github.com/Sendo-A/etl_workflow_using_airflow/blob/main/Mysql_employees.PNG" alt="Mysql" width="800"> 
+
 ## Prerequisites
 
 - Apache Airflow
