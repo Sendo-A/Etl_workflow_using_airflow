@@ -75,8 +75,8 @@ This project implements an ETL (Extract, Transform, Load) pipeline for managing 
 
   ## Mysql source and Postgresql destination and result data
 
-<img src="https://github.com/Sendo-A/etl_workflow_using_airflow/blob/main/Mysql_employees.PNG" alt="Mysql" width="400">
-<img src="https://github.com/Sendo-A/etl_workflow_using_airflow/blob/main/Postgresql_employees.PNG" alt="Postgresql" width="400">  
+<img src="https://github.com/Sendo-A/etl_workflow_using_airflow/blob/main/Mysql_employees.PNG" alt="Mysql" width="500"> <img src="https://github.com/Sendo-A/etl_workflow_using_airflow/blob/main/Postgresql_employees.PNG" alt="Postgresql" width="500">  
+
 
 ## Prerequisites
 
