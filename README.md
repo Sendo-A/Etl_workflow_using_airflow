@@ -2,7 +2,7 @@
 
 This project implements an ETL (Extract, Transform, Load) pipeline for managing employee data using Apache Airflow. The pipeline extracts data from a MySQL database, transforms it, and loads it into a PostgreSQL database. Below is a summary of the components and their functionalities.
 
-## Los Angeles Crime Analysis Using SQL and Power BI
+## ETL workflow using airflow with mysql as source and postgresql as destination and transformation with python
 
 <img src="https://github.com/Sendo-A/etl_workflow_using_airflow/blob/main/Photos/Etl_workflow.gif" alt="workflow" width="800">
 
