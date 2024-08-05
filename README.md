@@ -92,4 +92,5 @@ This project implements an ETL (Extract, Transform, Load) pipeline for managing 
 1. **Install Dependencies**:
    ```bash
    pip install apache-airflow pandas sqlalchemy apache-airflow-providers-mysql apache-airflow-providers-postgres
-
+2. **source of Information**:
+   https://www.youtube.com/watch?v=eZfD6x9FJ4E&t=258s 
