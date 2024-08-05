@@ -5,7 +5,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline for managing 
 ## ETL workflow using airflow with mysql as source and postgresql as destination and transformation with python
 
 <img src="https://github.com/Sendo-A/etl_workflow_using_airflow/blob/main/Photos/Etl_workflow.gif" alt="workflow" width="800">
-<img src="https://github.com/Sendo-A/etl_workflow_using_airflow/blob/main/Photos/airflow_ui_etl.PNG" alt="workflow" width="700">
+<img src="https://github.com/Sendo-A/etl_workflow_using_airflow/blob/main/Photos/airflow_ui_etl.PNG" alt="workflow" width="800">
 
 ## Project Structure
 
